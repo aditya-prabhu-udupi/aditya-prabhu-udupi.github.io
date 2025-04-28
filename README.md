@@ -16,7 +16,7 @@ The website includes the following sections:
 - **Resume**: This section is a showcase of my qualifications, including my education and Internships.
 
 - **Contact**: Here, visitors can find various ways to reach out to me. The contact section includes Address, Contact number, Email address and resume download.
-- 
+
 ## Technologies Used
 
 - **HTML**: For structuring the content of the website.
